@@ -17,3 +17,5 @@ Our Steemit blog page [Akolag Steem's Page](https://steemit.com/@akolag)
 - Project website: [www.akolag.org](https://akolag.org)
 - Company website: [www.akolagtech.com](https://akolagtech.com)
 
+## NOTE
+This project is still in development, codes still pending, we need contributors, developers

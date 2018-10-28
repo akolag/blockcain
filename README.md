@@ -12,3 +12,8 @@ Our Steemit blog page [Akolag Steem's Page](https://steemit.com/@akolag)
 ## Bitcoin
 - We understand the dynamic of cryptocurrency, decentralized currency and have the system that removes the centralized monetary system.
 - [Bitcoin](https://bitcoin.org/en/) is a kind of digital currency in which encryption techniques are used to regulate the generation of units of currency and verify the transfer of funds, operating independently of a central bank.
+
+## Website
+- Project website: [www.akolag.org](https://akolag.org)
+- Company website: [www.akolagtech.com](https://akolagtech.com)
+

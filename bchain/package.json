@@ -1,0 +1,16 @@
+{
+  "name": "bchain",
+  "version": "1.0.0",
+  "description": "Decentralized Hosting Plaform - Open Source",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akolag",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "sha.js": "^2.4.11",
+    "sha256": "^0.2.0"
+  }
+}
